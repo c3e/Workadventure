@@ -17,3 +17,5 @@
 * chaospottAerieLounge
 * chaospottAerieWC
 * chaospottAerieCantina
+
+![](WorkAdventureMapOverview.png)
