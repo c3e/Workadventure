@@ -43,7 +43,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"chaospottInnenhof.json#chaospottTreppenhausEG"
+                 "value":"main.json#chaospottTreppenhausEG"
                 }],
          "type":"tilelayer",
          "visible":true,

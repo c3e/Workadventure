@@ -31,7 +31,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"chaospottInnenhof.json#chaospottKellerTrollhoehle"
+                 "value":"main.json#chaospottKellerTrollhoehle"
                 }],
          "type":"tilelayer",
          "visible":true,
