@@ -75,6 +75,12 @@
          "id":7,
          "name":"Boden Grund",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"ChaospottB\u00e4llebad"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":14,
@@ -168,7 +174,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.4.2",
  "tileheight":32,
  "tilesets":[
         {
