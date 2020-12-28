@@ -612,8 +612,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":4,
          "firstgid":964,
-         "source":"wa-matekiste_matekiste.tsx"
+         "image":"tilesets\/wa-matekiste_matekiste.png",
+         "imageheight":96,
+         "imagewidth":128,
+         "margin":0,
+         "name":"wa-matekiste_matekiste",
+         "spacing":0,
+         "tilecount":12,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
