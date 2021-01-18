@@ -61,7 +61,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/2D-Welt-thueringen\/main.json#reentry-ruhrpott"
+                 "value":"https:\/\/play.kraut.world\/_\/global\/raw.githubusercontent.com\/die3ungleichen\/2D-Welt-thueringen\/main\/nordrheinwestfalen\/nordrheinwestfalen.json#reentry-chaospott"
                 }],
          "type":"tilelayer",
          "visible":true,
